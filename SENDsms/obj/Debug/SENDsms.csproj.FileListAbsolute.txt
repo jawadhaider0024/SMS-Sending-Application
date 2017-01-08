@@ -1,0 +1,18 @@
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\bin\Debug\SENDsms.exe.config
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\bin\Debug\SENDsms.exe
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\bin\Debug\SENDsms.pdb
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.csprojResolveAssemblyReference.cache
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.Form1.resources
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.Properties.Resources.resources
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.csproj.GenerateResource.Cache
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.exe
+C:\Users\Rizvi\Documents\Visual Studio 2012\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.pdb
+D:\Projects\Applications\Projects\SENDsms\SENDsms\bin\Debug\SENDsms.exe.config
+D:\Projects\Applications\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.exe
+D:\Projects\Applications\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.pdb
+D:\Projects\Applications\Projects\SENDsms\SENDsms\bin\Debug\SENDsms.exe
+D:\Projects\Applications\Projects\SENDsms\SENDsms\bin\Debug\SENDsms.pdb
+D:\Projects\Applications\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.csprojResolveAssemblyReference.cache
+D:\Projects\Applications\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.Form1.resources
+D:\Projects\Applications\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.Properties.Resources.resources
+D:\Projects\Applications\Projects\SENDsms\SENDsms\obj\Debug\SENDsms.csproj.GenerateResource.Cache
